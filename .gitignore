@@ -1,2 +1,4 @@
 # ignore everything in the "site" directory, except these directories:
-site/*
+vendor/*
+composer.lock
+
